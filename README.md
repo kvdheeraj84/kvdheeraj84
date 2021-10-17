@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj @kvdheeraj84
 - 👀 I’m interested in HPC, Supercomputing, FOSS, Linux, ML and AI
-- 🌱 I’m currently learning Python aand ML/AI
+- 🌱 I’m currently learning Python, R and ML/AI
 - 💞️ I’m looking to collaborate on tech savvy people to get more into the field of FOSS
 - 📫 How to reach me  at kvdheeraj@gmail.com
 
